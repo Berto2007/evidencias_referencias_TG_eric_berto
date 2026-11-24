@@ -26,9 +26,4 @@ Este índice identifica o tipo de fonte, sua finalidade no trabalho e o endereç
 | RapidFuzz | Documentação oficial | Comparação aproximada de textos | Documentação oficial |
 | Tan, Steinbach e Kumar (2006) | Livro | Fundamentos de mineração de dados | Catálogo bibliográfico |
 
-## Recomendações de integridade acadêmica
 
-- Não manter uma referência apenas porque ela aparece nesta lista: ela precisa ter sido consultada e contribuir para o conteúdo do TG.
-- Se uma obra for citada no corpo do texto, ela deve constar na lista final de referências.
-- Se uma obra constar na lista final, deve haver correspondência com uma citação ou uso identificável no trabalho, conforme as regras institucionais.
-- Não apresentar o repositório como prova de leitura integral. Ele documenta os registros e os caminhos de acesso às fontes.
