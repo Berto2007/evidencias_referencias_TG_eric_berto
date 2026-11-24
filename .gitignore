@@ -1,0 +1,20 @@
+# Arquivos temporários
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# Ambientes Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Dados e documentos potencialmente confidenciais
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite
+*.bak
+.env
