@@ -11,11 +11,4 @@ As páginas abaixo são as fontes primárias recomendadas para consultar o funci
 | PyMuPDF | https://pymupdf.readthedocs.io/ | Extração de conteúdo de documentos PDF |
 | RapidFuzz | https://maxbachmann.github.io/RapidFuzz/ | Comparação aproximada de strings |
 
-## Como registrar versões consultadas
 
-Quando a documentação for atualizada continuamente, registre, se possível:
-- data em que a página foi consultada;
-- versão da ferramenta utilizada no projeto;
-- seção ou página específica que fundamentou a implementação.
-
-A documentação online pode mudar depois da conclusão do projeto. Por isso, a versão efetivamente utilizada deve ser descrita no texto quando for relevante para reproduzir o procedimento.
