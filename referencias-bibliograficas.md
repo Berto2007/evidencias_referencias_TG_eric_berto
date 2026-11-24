@@ -1,6 +1,6 @@
 # Referências bibliográficas
 
-> Lista organizada com base nas referências fornecidas pelo autor. Conferir os dados editoriais com a edição efetivamente consultada antes da entrega final.
+
 
 AGGARWAL, Charu C. **Data mining: the textbook**. Cham: Springer, 2015. DOI: [10.1007/978-3-319-14142-8](https://doi.org/10.1007/978-3-319-14142-8).
 
